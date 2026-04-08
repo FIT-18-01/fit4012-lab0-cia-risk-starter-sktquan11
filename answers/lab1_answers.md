@@ -21,9 +21,9 @@
 ---
 
 ## 3. Phân tích sự cố B
-- **Threat:** Kẻ tấn công hoặc sinh viên cố tình thay đổi điểm số để trục lợi cá nhân.
-- **Vulnerability:** Hệ thống thiếu cơ chế phân quyền chặt chẽ hoặc tồn tại lỗ hổng SQL Injection cho phép can thiệp vào database.
-- **Mitigation:** Triển khai cơ chế phân quyền Role-based Access Control và sử dụng Parameterized Queries để bảo vệ cơ sở dữ liệu.
+- Threat: Kẻ tấn công hoặc sinh viên cố tình thay đổi điểm số để trục lợi cá nhân.
+- Vulnerability: Hệ thống thiếu cơ chế phân quyền chặt chẽ hoặc tồn tại lỗ hổng SQL Injection cho phép can thiệp vào database.
+- Mitigation:Triển khai cơ chế phân quyền Role-based Access Control và sử dụng Parameterized Queries để bảo vệ cơ sở dữ liệu.
 
 ---
 
